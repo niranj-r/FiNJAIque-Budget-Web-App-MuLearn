@@ -3,8 +3,6 @@ import Header from './components/Header';
 import SummaryCards from './components/SummaryCards';
 import AddExpenseForm from './components/AddExpenseForm';
 import ExpenseList from './components/ExpenseList';
-{/*import DoughnutChart from './components/DoughnutChart';
-import CategoryBarChart from './components/CategoryBarChart';*/}
 
 import './App.css';
 
